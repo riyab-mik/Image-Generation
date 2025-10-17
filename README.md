@@ -1,2 +1,2 @@
 # Image-Generation
-Generate Image using GAN
+Generate Image using GAN.
